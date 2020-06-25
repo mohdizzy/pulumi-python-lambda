@@ -1,0 +1,3 @@
+name: pulumi_rekognition
+runtime: python
+description: Pulumi Rekognition - Celebrity
